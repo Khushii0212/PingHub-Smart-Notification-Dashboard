@@ -5,7 +5,8 @@ PingHub is a **visual, interactive campus notification dashboard** built for uni
 ## 🚀 Quick Access
 
 🌐 **Live Demo:**  [https://ping-hub-smart-notification-dashboard.vercel.app](https://ping-hub-smart-notification-dashboa-alpha.vercel.app/)
-🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1-bDR-5L8zZ0JtRhiOzcf-E4w2ZhxLbbi/view?usp=sharing)
+
+🎥 **Demo Video:** [https://drive.google.com/file/d/1-bDR-5L8zZ0JtRhiOzcf-E4w2ZhxLbbi/view?usp=sharing](https://drive.google.com/file/d/1-bDR-5L8zZ0JtRhiOzcf-E4w2ZhxLbbi/view?usp=sharing)
 
 ---
 
