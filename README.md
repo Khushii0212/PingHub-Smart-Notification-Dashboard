@@ -1,8 +1,11 @@
 # 🔔 PingHub
 
-🌐 **Live Demo:** [https://ping-hub-smart-notification-dashboard.vercel.app](https://ping-hub-smart-notification-dashboa-alpha.vercel.app/)
-
 PingHub is a **visual, interactive campus notification dashboard** built for university students. It allows students to view, filter, and prioritize campus alerts (Placements, Results, Events) through a premium, cheerful light-themed interface. The system calculates priority scores to surface the most urgent updates instantly.
+
+## 🚀 Quick Access
+
+🌐 **Live Demo:**  [https://ping-hub-smart-notification-dashboard.vercel.app](https://ping-hub-smart-notification-dashboa-alpha.vercel.app/)
+🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1-bDR-5L8zZ0JtRhiOzcf-E4w2ZhxLbbi/view?usp=sharing)
 
 ---
 
